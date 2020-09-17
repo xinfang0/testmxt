@@ -22,7 +22,7 @@ class MtxLogin(object):
     def login_success(self,session):
         '''
         发起登录成功的请求
-        :param session:dssss
+        :param session:dsssswww
         :return:
         '''
         data = {'accounts': 'yaoyao', 'pwd':'yaoyao'}
